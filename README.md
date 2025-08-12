@@ -48,6 +48,8 @@ Now, I understand why I got this error. Because, in the /home/ubuntu/website fol
 - After, I pushed the code from local server to remote server successfully. The site is up and running.
 - Then, wrote a script deploy.sh file to use rsync to sync the files in local to remote server.
 - And, whenever I made changes in the code of local and I want to push the code in remote I use this script to sync the files in local to remote server.
+- Kindly ensure you got permission to run the script in your system.
 - Now, the site is up and running.
 
-
+### Project Description URL
+https://roadmap.sh/projects/static-site-server
